@@ -47,7 +47,7 @@ function validateForm() {
 
         <label for="project">Projeto:</label>
         <select id="project" name="project">
-            <option value="L2JDreamV2">L2JDreamV2</option>
+            <option value="L2JDev">L2JDev</option>
         </select>
 
         <label for="chronicle">Chronicle:</label>
